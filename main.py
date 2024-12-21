@@ -24,4 +24,9 @@ def main():
         level_id = int(input("level_id: "))
     except ValueError:
         return 1
-    print(fetch_data(1, level_id, completion_time))
+    response = fetch_data(1, level_id, "completion_time")
+    if response is None:
+        print("Failed to fetch data.")
+    else:
+        print("Response received:")
+        print(response)
