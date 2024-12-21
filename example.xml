@@ -1,0 +1,51 @@
+<?-- this is an example of the xml pulled from TJF -->
+<?xml version="1.0" encoding="UTF-8"?><rps pg="1" pp="500">
+
+<rp 
+ar="40922988" 
+ct="239" 
+dc="2024-10-14" 
+id="67372492" 
+li="1786343" 
+pc="6" 
+rg="2.5" 
+ui="10724329" 
+un="NowThatsATotalJerk" 
+vr="1.96" 
+vs="0" 
+vw="3995">
+
+<uc><![CDATA[I'll admit, this run took longer than I wanted it to be.
+
+This run is not legitimate; It is a TAS via Pause buffe- yeah, yeah, you get It now.
+
+The real World Record is 9.13 by NaN
+
+
+Sub 8 Combine Tho]]></uc>
+
+</rp>
+</rps> 
+
+
+<?-- this is what each value means -->
+<?xml version="xml version" encoding="UTF-8"?><rps pg="page number" pp="items per page">
+
+<rp 
+ar="?" 
+ct="?" 
+dc="date created" 
+id="replay id" 
+li="level id" 
+pc="player character id" 
+rg="replay rating" 
+ui="user ID" 
+un="username" 
+vr="?" 
+vs="?" 
+vw="replay views">
+
+<uc><![CDATA[user comment here]]></uc>
+
+</rp>
+</rps> 
