@@ -31,3 +31,6 @@ def main():
     else:
         print("Response received:")
         print(response)
+
+if __name__ == "__main__":
+    main()
