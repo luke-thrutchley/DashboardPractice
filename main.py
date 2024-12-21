@@ -23,6 +23,7 @@ def main():
     try:
         level_id = int(input("level_id: "))
     except ValueError:
+        print("ValueError")
         return 1
     response = fetch_data(1, level_id, "completion_time")
     if response is None:
