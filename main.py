@@ -25,7 +25,7 @@ def main():
     except ValueError:
         print("ValueError")
         return 1
-    response = fetch_data(250, level_id, "completion_time")
+    response = fetch_data(100, level_id, "completion_time")
     if response is None:
         print("Failed to fetch data.")
     else:
