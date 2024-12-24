@@ -33,7 +33,7 @@ Sub 8 Combine Tho]]></uc>
 
 <rp 
 ar="?" 
-ct="?" 
+ct="clear time" 
 dc="date created" 
 id="replay id" 
 li="level id" 
@@ -42,7 +42,7 @@ rg="replay rating"
 ui="user ID" 
 un="username" 
 vr="?" 
-vs="?" 
+vs="views" 
 vw="replay views">
 
 <uc><![CDATA[user comment here]]></uc>
