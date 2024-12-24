@@ -1,3 +1,10 @@
+"""
+
+    This is a community effort discord bot for the Happy Wheels Speedrunning Community
+    The majority of this code was based on code provided by _lethalpotato_ on discord
+
+"""
+
 import requests
 from lxml import etree
 
