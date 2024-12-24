@@ -54,7 +54,7 @@ def parse_top_10(level_id, top10, top10ct, top10dt, t10index):
             for rp in rps:
                 username = rp.attrib.get('un')
                 clear_time = rp.attrib.get('ct')
-                date_of_clear = rp.attrib.get('dt')
+                date_of_clear = rp.attrib.get('dc')
                 if username in top10:
                     continue
                 else:
